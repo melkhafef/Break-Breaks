@@ -1,4 +1,4 @@
-# Break-Breaks
+# Break-Bricks
 your goal to break all breaks to win.
 # How you play
 - click play button to start.
